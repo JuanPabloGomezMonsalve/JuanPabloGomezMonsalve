@@ -3,7 +3,7 @@
 
 I'm Juan Pablo👋. learning is a difficult process and I want to teach you👀 everything that I am learning and have learned during this time so that it is not so difficult to apply it in software development and testing.
 
-👨🏼‍💻 #SerenityBDD, #RESTApi #AutomationTest #Development #Java #SpringBoot
+👨🏼‍💻 #SerenityBDD, #RESTApi #AutomationTest #Development #Java #SpringBoot #Flutter
 
 💻 Automation test, DevOps, Design patterns.
 
